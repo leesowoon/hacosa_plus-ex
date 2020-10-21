@@ -1,0 +1,15 @@
+
+html, body{
+    padding:10px;
+    height:100%;    
+}
+
+.Menu ul li, .UserMenu ul li {
+    font-weight: bold;
+    display:inline;
+    padding:15px;
+}
+h1{
+   float : left;
+margin-right: 15px;
+}
